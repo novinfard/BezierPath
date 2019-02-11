@@ -1,6 +1,6 @@
 # Creating custom shapes using Bezier Paths and animate them by CABasicAnimation in iOS
 
-You can create custom shapes in iOS with using the power `UIBezierPaths`. In this tutorial we are going to create custom arrow shape with bezier paths and then animate the degree of the arrow by `CABasicAnimation`.
+You can create custom shapes in iOS with using the power  of `UIBezierPaths`. In this tutorial we create a custom arrow shape with bezier paths and then animate the degree of its edge by `CABasicAnimation`.
 
 To read the tutorial please visit the below link:
 [https://link.medium.com/y7Q3hSh2cU
