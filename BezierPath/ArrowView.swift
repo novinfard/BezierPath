@@ -1,5 +1,4 @@
 import UIKit
-import CoreGraphics
 
 class ArrowView: UIView {
     
@@ -86,7 +85,6 @@ class ArrowView: UIView {
 		
         self.shapeLayer.add(animation, forKey: "path")
 	}
-	
 	
 	private func arrowShapePath() -> UIBezierPath {
 		let size = self.bounds.size
